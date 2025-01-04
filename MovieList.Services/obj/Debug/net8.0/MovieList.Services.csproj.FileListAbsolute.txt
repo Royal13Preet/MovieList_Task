@@ -1,0 +1,15 @@
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\obj\Debug\net8.0\MovieList.Services.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\obj\Debug\net8.0\MovieList.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\obj\Debug\net8.0\MovieList.Services.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\obj\Debug\net8.0\MovieList.Services.AssemblyInfo.cs
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\obj\Debug\net8.0\MovieList.Services.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\bin\Debug\net8.0\MovieList.Services.deps.json
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\bin\Debug\net8.0\MovieList.Services.dll
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\bin\Debug\net8.0\MovieList.Services.pdb
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\bin\Debug\net8.0\MovieList.DataAccess.dll
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\bin\Debug\net8.0\MovieList.DataAccess.pdb
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\obj\Debug\net8.0\MovieLis.04FC745C.Up2Date
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\obj\Debug\net8.0\MovieList.Services.dll
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\obj\Debug\net8.0\refint\MovieList.Services.dll
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\obj\Debug\net8.0\MovieList.Services.pdb
+C:\Users\preethu\source\repos\MovieList\MovieList.Services\obj\Debug\net8.0\ref\MovieList.Services.dll

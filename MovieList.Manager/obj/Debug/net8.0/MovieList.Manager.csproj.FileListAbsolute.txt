@@ -1,0 +1,11 @@
+C:\Users\preethu\source\repos\MovieList\MovieList.Manager\bin\Debug\net8.0\MovieList.Manager.deps.json
+C:\Users\preethu\source\repos\MovieList\MovieList.Manager\bin\Debug\net8.0\MovieList.Manager.dll
+C:\Users\preethu\source\repos\MovieList\MovieList.Manager\bin\Debug\net8.0\MovieList.Manager.pdb
+C:\Users\preethu\source\repos\MovieList\MovieList.Manager\obj\Debug\net8.0\MovieList.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\MovieList\MovieList.Manager\obj\Debug\net8.0\MovieList.Manager.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\MovieList\MovieList.Manager\obj\Debug\net8.0\MovieList.Manager.AssemblyInfo.cs
+C:\Users\preethu\source\repos\MovieList\MovieList.Manager\obj\Debug\net8.0\MovieList.Manager.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\MovieList\MovieList.Manager\obj\Debug\net8.0\MovieList.Manager.dll
+C:\Users\preethu\source\repos\MovieList\MovieList.Manager\obj\Debug\net8.0\refint\MovieList.Manager.dll
+C:\Users\preethu\source\repos\MovieList\MovieList.Manager\obj\Debug\net8.0\MovieList.Manager.pdb
+C:\Users\preethu\source\repos\MovieList\MovieList.Manager\obj\Debug\net8.0\ref\MovieList.Manager.dll

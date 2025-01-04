@@ -1,0 +1,14 @@
+C:\Users\preethu\source\repos\MovieList\MovieList.DataAccess\bin\Debug\net8.0\MovieList.DataAccess.deps.json
+C:\Users\preethu\source\repos\MovieList\MovieList.DataAccess\bin\Debug\net8.0\MovieList.DataAccess.runtimeconfig.json
+C:\Users\preethu\source\repos\MovieList\MovieList.DataAccess\bin\Debug\net8.0\MovieList.DataAccess.dll
+C:\Users\preethu\source\repos\MovieList\MovieList.DataAccess\bin\Debug\net8.0\MovieList.DataAccess.pdb
+C:\Users\preethu\source\repos\MovieList\MovieList.DataAccess\obj\Debug\net8.0\MovieList.DataAccess.csproj.AssemblyReference.cache
+C:\Users\preethu\source\repos\MovieList\MovieList.DataAccess\obj\Debug\net8.0\MovieList.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preethu\source\repos\MovieList\MovieList.DataAccess\obj\Debug\net8.0\MovieList.DataAccess.AssemblyInfoInputs.cache
+C:\Users\preethu\source\repos\MovieList\MovieList.DataAccess\obj\Debug\net8.0\MovieList.DataAccess.AssemblyInfo.cs
+C:\Users\preethu\source\repos\MovieList\MovieList.DataAccess\obj\Debug\net8.0\MovieList.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\preethu\source\repos\MovieList\MovieList.DataAccess\obj\Debug\net8.0\MovieList.DataAccess.dll
+C:\Users\preethu\source\repos\MovieList\MovieList.DataAccess\obj\Debug\net8.0\refint\MovieList.DataAccess.dll
+C:\Users\preethu\source\repos\MovieList\MovieList.DataAccess\obj\Debug\net8.0\MovieList.DataAccess.pdb
+C:\Users\preethu\source\repos\MovieList\MovieList.DataAccess\obj\Debug\net8.0\MovieList.DataAccess.genruntimeconfig.cache
+C:\Users\preethu\source\repos\MovieList\MovieList.DataAccess\obj\Debug\net8.0\ref\MovieList.DataAccess.dll
